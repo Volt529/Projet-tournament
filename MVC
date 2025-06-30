@@ -1,0 +1,33 @@
+chess_tournament_manager/
+│
+├── controllers/
+│   ├── main_controller.py
+│   ├── player_controller.py
+│   ├── tournament_controller.py
+│   └── report_controller.py
+│
+├── models/
+│   ├── player.py
+│   ├── tournament.py
+│   ├── round.py
+│   └── match.py
+│
+├── views/
+│   ├── main_menu_view.py
+│   ├── player_view.py
+│   ├── tournament_view.py
+│   └── report_view.py
+│
+├── data/
+│   ├── players.json
+│   ├── tournaments.json
+│   └── rapport HTML flake8
+├── utils/
+│   ├── json_handler.py
+│   └── validator.py
+│ 
+│   
+│
+├── main.py
+├── requirements.txt
+└── README.md
