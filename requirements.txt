@@ -1,0 +1,10 @@
+# Paquets principaux
+flake8==6.1.0          # Vérification de la qualité du code
+python-dateutil==2.8.2  # Gestion avancée des dates
+uuid==1.30             # Génération d'ID uniques
+
+# Génération de rapports
+flake8-html==0.4.3     # Export HTML des rapports Flake8
+
+pip install -r requirements.txt
+
